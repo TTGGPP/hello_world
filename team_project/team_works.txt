@@ -43,3 +43,61 @@
 - 기본데이터 + 추가데이터
 - 지역 정보: 부동산정책, 지역개발계획, 지역정책, 지역인구변동
 - 시계열 정보: 물가상승률, 금리, 환율, 코스피, 코스닥
+
+
+
+현황 카테고리 기본 데이터 탐색 결과(sub-data-file 폴더)
+
+년도별 지역별 전체 매매건수
+region_deal_count.csv
+
+월별 지역별 전체 매매건수
+region_deal_count_month.csv
+
+년도별 지역별 사이즈별 매매건수
+region_size_deal_count.csv
+
+월별 지역별 사이즈별 매매건수
+region_size_deal_count_month.csv
+
+년도별 지역별 평균 평당 가격
+region_avg_price_per_pyung.csv
+
+월별 지역별 평균 평당 가격
+region_avg_price_per_pyung_month.csv
+
+년도별 지역별 사이즈별 평균 평당 가격
+region_size_avg_price_per_pyung.csv
+
+월별 지역별 사이즈별 평균 평당 가격
+region_size_avg_price_per_pyung.csv
+
+아파트 자이 년도별 지역별 매매건수
+xi_region_deal_count.csv
+
+아파트 자이 년도별 지역별 평균 평당 가격
+xi_region_avg_price_per_pyung.csv
+
+아파트 힐스테이트 년도별 지역별 매매건수
+healstate_region_deal_count.csv
+
+아파트 힐스테이트 년도별 지역별 평균 평당 가격
+healstate_region_avg_price_per_pyung.csv
+
+아파트 래미안 년도별 지역별 매매건수
+raemian_region_deal_count.csv
+
+아파트 래미안 년도별 지역별 평균 평당 가격
+raemian_region_avg_price_per_pyung.csv
+
+아파트 푸르지오 년도별 지역별 매매건수
+prugio_region_deal_count.csv
+
+아파트 푸르지오 년도별 지역별 평균 평당 가격
+prugio_region_avg_price_per_pyung.csv
+
+아파트 롯데캐슬 년도별 지역별 매매건수
+lottecastle_region_deal_count.csv
+
+아파트 롯데캐슬 년도별 지역별 평균 평당 가격
+lottecastle_region_avg_price_per_pyung.csv
