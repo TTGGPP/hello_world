@@ -70,7 +70,7 @@ region_avg_price_per_pyung_month.csv
 region_size_avg_price_per_pyung.csv
 
 월별 지역별 사이즈별 평균 평당 가격
-region_size_avg_price_per_pyung.csv
+region_size_avg_price_per_pyung_month.csv
 
 아파트 자이 년도별 지역별 매매건수
 xi_region_deal_count.csv
